@@ -1,3 +1,1 @@
-# ruthveek-kethan
-sample to learn
-iam haapy
+# ruthveek-kethis is repo info
