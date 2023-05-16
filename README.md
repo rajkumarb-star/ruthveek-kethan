@@ -1,2 +1,1 @@
-# ruthveek-kethan ...
-this repo info
+
